@@ -3,6 +3,7 @@ project:
 
 website:
   navbar:
+    logo: "chai.jpg"
     left:
       - href: index.qmd
         text: Home
@@ -10,6 +11,7 @@ website:
     right:
        - icon: instagram
          href: https://instagram.com/
+    
 
   announcement: 
    icon: info-circle
