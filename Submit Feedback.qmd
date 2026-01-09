@@ -12,3 +12,7 @@ Please fill out the google sheet below. Note by filling out the form you agree t
 
 Thank you for your feedback!
 
+::: {layout-ncol=1}
+
+![](happy.jpg){group="my-group"}
+:::
