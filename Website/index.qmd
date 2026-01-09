@@ -9,7 +9,7 @@ Welcome to our website and welcome to chai.
 
 ::: {layout-ncol=1}
 
-![](chai2.jpg){group="my-group"}
+![](banner.jpg){group="my-group"}
 
 
 
