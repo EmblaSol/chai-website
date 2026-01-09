@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - Schedule.qmd
+      - Reviews.qmd
     right:
        - icon: instagram
          href: https://www.instagram.com/bharathi.kamban?igsh=MTE2bWR4aGg5aHZtZw== 

@@ -1,0 +1,19 @@
+---
+title: "Reviews"
+---
+
+::: columns
+::: {.column width="50%"}
+
+![](https://www.r-project.org/logo/Rlogo.png)
+
+Satisfied costumer (25)
+:::
+
+::: {.column width="50%"}
+      Absoloutely incredible!
+
+<br>
+
+
+:::

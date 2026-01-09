@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Chai with Bharathi",
     "section": "",
-    "text": "Welcome to our website and welcome to chai. Hi\n\n\n\n\n\n\n\nTo book your chai session with Bharathi please go to the schedule tab."
+    "text": "Welcome to our website and welcome to chai.\n\n\n\n\n\n\n\nTo book your chai session with Bharathi please go to the schedule tab."
   },
   {
     "objectID": "Schedule.html",
@@ -12,5 +12,12 @@
     "title": "Schedule",
     "section": "",
     "text": "Please fill in your name in the Excel sheet below.\n\nOpen file in google docs"
+  },
+  {
+    "objectID": "Reviews.html",
+    "href": "Reviews.html",
+    "title": "Reviews",
+    "section": "",
+    "text": "Satisfied costumer (25)\n\n  Absoloutely incredible!"
   }
 ]
