@@ -7,14 +7,28 @@ website:
       - href: index.qmd
         text: Home
       - Schedule.qmd
+    right:
+       - icon: instagram
+         href: https://instagram.com/
+
+  announcement: 
+   icon: info-circle
+   dismissable: true
+   content: "**Be hyped** - New spots are currently available"
+   type: primary
+   position: below-navbar
 
 format:
   html:
     theme:
       - cosmo
       - brand
+    fontsize: 1.1em
+    linestretch: 1.7
     css: styles.css
     toc: true
+
+
 
 
 
