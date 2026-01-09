@@ -6,7 +6,7 @@ subtitle: "Hear from real-life clients"
 ::: columns
 ::: {.column width="50%"}
 
-![](costumer.jpeg)
+![](customer1.png)
 
 Satisfied costumer (25)
 :::
@@ -15,6 +15,8 @@ Satisfied costumer (25)
 :::
 
 ::: {.column width="40%"}
+[]()
+
 Absoloutely incredible! I could not be more happy with the service provided. I reccomend everyone to try! 
 
 <br>
@@ -34,7 +36,7 @@ A once in a lifetime experience. I thank Bharathi for everything she has provide
 
 ::: {.column width="40%"}
 
-![](costumer.jpeg)
+![](customer2.png)
 
 Enganged student (25)
 
