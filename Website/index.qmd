@@ -4,16 +4,14 @@ title: "Chai with Bharathi"
 subtitle: "A curated experience"
 ---
 
-Welcome to an unique experience. 
+Welcome to our website and welcome to chai. 
 
 
-::: {layout-ncol=3}
-
-![](chai.jpg){group="my-group"}
+::: {layout-ncol=1}
 
 ![](chai2.jpg){group="my-group"}
 
-![](chai3.jpg){group="my-group"}
+
 
 :::
 To book your chai session with Bharathi please go to the schedule tab. 
