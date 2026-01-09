@@ -8,7 +8,7 @@ subtitle: "Hear from real-life clients"
 
 ![](customer1.png)
 
-Satisfied costumer (25)
+<span style="color:white;">much love </span> Satisfied costumer (25)
 :::
 
 ::: {.column width="10%"}
@@ -17,15 +17,21 @@ Satisfied costumer (25)
 ::: {.column width="40%"}
 []()
 
-Absoloutely incredible! I could not be more happy with the service provided. I reccomend everyone to try! 
+<br> 
 
-<br>
+Absoloutely incredible! I could not be more happy with the service provided. I reccomend everyone to try! I  <span style="color:red;">love</span> it.
+
+
 
 :::
 :::
 
 ::: columns
 ::: {.column width="50%"}
+
+<br> 
+<br>
+<br>
 
 A once in a lifetime experience. I thank Bharathi for everything she has provided!
 
@@ -38,9 +44,8 @@ A once in a lifetime experience. I thank Bharathi for everything she has provide
 
 ![](customer2.png)
 
-Enganged student (25)
+<span style="color:white;">- love </span>  Enganged student (25)
 
-<br>
 
 :::
 :::
