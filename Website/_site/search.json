@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chai with Bharathi",
+    "section": "",
+    "text": "Welcome to our website!\nTo book your chai session with Bharathi please go to the schedule tab."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Schedule.html",
+    "href": "Schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Please fill in your name in the Excel sheet below."
+  }
+]
