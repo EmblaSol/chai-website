@@ -1,0 +1,14 @@
+---
+title: "Submit Feedback"
+subtitle: "Do you also want to share your amazing experience?"
+---
+
+Please fill out the google sheet below. Note by filling out the form you agree to have your answers posted on the website. 
+
+```{=html}
+<iframe width="800" height="300" src="https://forms.gle/syi7YiyaWQoPFA5K8" title="Schedule"></iframe>
+```
+[Open file in google sheets](https://forms.gle/syi7YiyaWQoPFA5K8)
+
+Thank you for your feedback!
+

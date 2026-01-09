@@ -9,6 +9,7 @@ website:
         text: Home
       - Schedule.qmd
       - Reviews.qmd
+      - Submit Feedback.qmd
     right:
        - icon: instagram
          href: https://www.instagram.com/bharathi.kamban?igsh=MTE2bWR4aGg5aHZtZw== 
