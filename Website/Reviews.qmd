@@ -1,19 +1,44 @@
 ---
 title: "Reviews"
+subtitle: "Hear from real-life clients"
 ---
 
 ::: columns
 ::: {.column width="50%"}
 
-![](https://www.r-project.org/logo/Rlogo.png)
+![](costumer.jpeg)
 
 Satisfied costumer (25)
 :::
 
-::: {.column width="50%"}
-      Absoloutely incredible!
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+Absoloutely incredible! I could not be more happy with the service provided. I reccomend everyone to try! 
 
 <br>
 
+:::
+:::
 
+::: columns
+::: {.column width="50%"}
+
+A once in a lifetime experience. I thank Bharathi for everything she has provided!
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+![](costumer.jpeg)
+
+Enganged student (25)
+
+<br>
+
+:::
 :::
