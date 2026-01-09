@@ -14,5 +14,5 @@ Thank you for your feedback!
 
 ::: {layout-ncol=1}
 
-![](happy.jpg){group="my-group"}
+![](happy2.jpg){group="my-group"}
 :::
